@@ -19,6 +19,10 @@ Significant time taken to process each frame.
 It is a computational method used to simulate the mechanics of continuous media, such as solid mechanics and fluid flow.
 
 
+## Report:
+
+[VR_Report.pdf](https://github.com/halalek/Tsunami-simulation/files/14454555/VR_Report.pdf)
+
 ## Images:
 ![image](https://github.com/halalek/Tsunami-simulation/assets/112726630/bdf8ef85-cb4b-4d6f-b608-801423ef0863)
 
